@@ -1,0 +1,2 @@
+# wordle
+train
